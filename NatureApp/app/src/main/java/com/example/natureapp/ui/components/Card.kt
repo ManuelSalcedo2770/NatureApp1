@@ -43,7 +43,7 @@ fun CardImage(image : String, title : String, description : String){
         Box(
             modifier = Modifier
                 .fillMaxWidth()
-                .height(70.dp)
+                .height(90.dp)
         ){
             Column(
                 modifier = Modifier
