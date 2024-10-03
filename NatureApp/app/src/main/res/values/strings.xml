@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NatureApp</string>
+    <string name="place_name">NombreDelLugar</string>
+    <string name="description">Descripcion del lugar</string>
+    <string name="title">Título del lugar</string>
+
 </resources>
